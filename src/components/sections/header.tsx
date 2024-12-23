@@ -52,12 +52,6 @@ export default function Header() {
 
             <div className="gap-2 flex">
               <Link
-                href="/login"
-                className={buttonVariants({ variant: "outline" })}
-              >
-                Login
-              </Link>
-              <Link
                 href="/signup"
                 className={cn(
                   buttonVariants({ variant: "default" }),
