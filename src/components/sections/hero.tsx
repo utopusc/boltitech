@@ -23,7 +23,7 @@ function HeroPill() {
       <div className="w-fit rounded-full bg-accent px-2 py-0.5 text-center text-xs font-medium text-primary sm:text-sm">
       📎 Check Out
       </div>
-      <p className="text-xs font-medium text-primary sm:text-sm" href="/portfolio">
+      <p className="text-xs font-medium text-primary sm:text-sm">
         Our Portfolio
       </p>
       <svg
